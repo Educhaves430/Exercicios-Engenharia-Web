@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "WithHeaders";
+}
+
+<h1>VaryByHeaders</h1>
+
+Value sent in header is : @Context.Response.Headers["Vary"]
+<br />
+<br />
+
+This view was built at <strong>@DateTime.Now.ToLongTimeString()</strong>
+<br />
+
+<h3>Header value</h3>
+@{
+    var vs = Context.Response.Headers["Vary"];
+}
+@vs : @Context.Request.Headers[vs]
