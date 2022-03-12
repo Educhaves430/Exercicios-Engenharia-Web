@@ -1,0 +1,128 @@
+62952;ABEL Jessé Esteves de ANDRADE;Engenharia Informática
+63219;PEDRO Miguel Oliveira AIRES;Engenharia Informática
+63555;FILIPE José Serra Pantoja Gomes da SILVA;Engenharia Informática
+64011;RICARDO João Barreira VILA;Engenharia Informática
+64208;RAFAEL Teixeira DIAS;Engenharia Informática
+66483;JOÃO Duarte Azevedo PIRES;Engenharia Informática
+66547;RUI Pedro Vieira da SILVA;Engenharia Informática
+66620;PAULO César Barbosa Gonçalves da COSTA;Engenharia Informática
+66653;ANDRÉ Daniel Ribeiro BARROS;Engenharia Informática
+66659;RICARDO Filipe Carvalho NÓBREGA;Engenharia Informática
+66666;DIOGO de Paiva OLIVEIRA;Engenharia Informática
+66708;ANDRÉ Canário CIBRÃO;Engenharia Informática
+66766;RAQUEL de Azevedo Ribeiro PALMA;Engenharia Informática
+67905;GONÇALO Lourenço PINTO;Engenharia Informática
+67959;ALEXANDRE Daniel Amorim CAPELAS;Engenharia Informática
+68144;DIOGO Manuel de Sousa LEITE;Engenharia Informática
+68389;DANIEL Ribeiro MONTEIRO;Engenharia Informática
+68535;MIGUEL ângelo Barros VIDAL;Engenharia Informática
+68541;LEANDRO João Teixeira COELHO;Engenharia Informática
+68562;MÁRIO Miguel Brites PINTO;Engenharia Informática
+68576;NUNO Xavier de Oliveira PINTO;Engenharia Informática
+68596;ANA Rita Barros CARNEIRO;Engenharia Informática
+68601;FILIPE Rodrigues PIRES;Engenharia Informática
+68627;MARIANA Filipa Batista DIAS;Engenharia Informática
+68629;CARLOS Miguel de Almeida Fernandes FREITAS;Engenharia Informática
+68637;FILIPE Miguel Pereira VINHAS;Engenharia Informática
+68645;TELMO da Silva LEAL;Engenharia Informática
+68652;JOÃO Pedro Rodrigues SIMÕES;Engenharia Informática
+68653;RICARDO Rocha Silva COSTA;Engenharia Informática
+68661;FRANCISCO da Silva FERREIRA;Engenharia Informática
+68702;FRANCISCO José Pereira RIBEIRO;Engenharia Informática
+68708;LUÍS dos Santos RIBEIRO;Engenharia Informática
+68843;JOÃO Miguel Pinto dos SANTOS;Engenharia Informática
+68849;JOSÉ Manuel Gouveia FERNANDES;Engenharia Informática
+68877;JOSÉ Rui Portela FERREIRA;Engenharia Informática
+68884;LEONARDO Flores Morim da SILVA;Engenharia Informática
+68887;EDUARDO Gil Macedo Vaz PINHEIRO;Engenharia Informática
+68889;NELSON Miranda Júlio da SILVA;Engenharia Informática
+68894;DAVID Castro SILVA;Engenharia Informática
+68916;MIGUEL Oliveira e SANTOS;Engenharia Informática
+68923;JOSÉ Diogo Vilaças NOGUEIRA;Engenharia Informática
+69684;TIAGO André Lobo SAMPAIO;Engenharia Informática
+69980;VÍTOR Emanuel Azevedo MOREIRA;Engenharia Informática
+70407;JOÃO Paulo Costa RUA;Engenharia Informática
+70533;JOÃO Pedro Magalhães SOARES;Engenharia Informática
+70540;CARLOS Eduardo Castro CARVALHO;Engenharia Informática
+70560;PAULO Jorge de Castro PEREIRA;Engenharia Informática
+70565;RENATO Alves BARBOSA;Engenharia Informática
+70569;DIOGO Alves BARBOSA;Engenharia Informática
+70577;TOMÁS Daniel Pinto Pereirinha ANTUNES;Engenharia Informática
+70578;FERNANDO Gomes MORAIS;Engenharia Informática
+70579;JOÃO Henrique Constâncio RODRIGUES;Engenharia Informática
+70580;JOÃO Monteiro FERREIRA;Engenharia Informática
+70582;ANA Beatriz Moreno MENDES;Engenharia Informática
+70587;DIOGO Filipe da Costa MARQUES;Engenharia Informática
+70596;PEDRO Afonso Bárbara Branco GUERRA;Engenharia Informática
+70611;EDUARDO Manuel Afonso CHAVES;Engenharia Informática
+70619;RODRIGO Ramalhoto de Carvalho VICENTE;Engenharia Informática
+70633;DIOGO António Costa MEDEIROS;Engenharia Informática
+70634;LUÍS António Fernandes VALINA;Engenharia Informática
+70647;EDUARDA Sofia Ribeiro BASTOS;Engenharia Informática
+70648;RUI João Barros PINTO;Engenharia Informática
+70649;PEDRO Miguel Cunha da SILVA;Engenharia Informática
+70650;RUI Pedro Pinto DUARTE;Engenharia Informática
+70651;PAULO Sérgio Rodrigues MOREIRA;Engenharia Informática
+70662;JOANA Costa Ribeiro RUIVO;Engenharia Informática
+70663;EDUARDO Barros da CRUZ;Engenharia Informática
+70671;DIOGO Francisco Amorim VIANA;Engenharia Informática
+70674;JOSÉ Luís Dias SAMPAIO;Engenharia Informática
+70677;ÉRICA Beatriz Pereira BORGES;Engenharia Informática
+70680;TOMÁS Costa SILVA;Engenharia Informática
+70695;JOÃO Adriano Azevedo GUEDES;Engenharia Informática
+70696;TIAGO de Sousa LOPES;Engenharia Informática
+70698;MANUEL António Barbosa SOARES;Engenharia Informática
+70701;EMMANUEL MARTINS;Engenharia Informática
+70703;LUÍS Pedro Costeira LIMA;Engenharia Informática
+70709;DIOGO Feliciano Monteiro TEIXEIRA;Engenharia Informática
+70713;ÂNGELO Rafael Gomes de OLIVEIRA;Engenharia Informática
+70730;HUGO Miguel Cardoso FERNANDES;Engenharia Informática
+70734;ALEXANDRE Borges GONÇALVES;Engenharia Informática
+70737;ANTÓNIO Pedro Ferreira COSTA;Engenharia Informática
+70742;LUÍS Pedro Bento MONTEIRO;Engenharia Informática
+70748;TIAGO Condesso PEREIRA;Engenharia Informática
+70782;PEDRO Miguel Costa MOURÃO;Engenharia Informática
+70790;ÁUREA Harry Leite Antunes LARANJA;Engenharia Informática
+70792;VLADYSLAV KOVALCHUK;Engenharia Informática
+70794;JOÃO Pedro Matias GONÇALVES;Engenharia Informática
+70821;LUÍS Miguel Ferreira Borges Pereira de JESUS;Engenharia Informática
+70822;BRUNO Daniel Leal SILVA;Engenharia Informática
+70827;LUÍS André de Marques PIMENTA;Engenharia Informática
+70833;HUGO Daniel Braga de ANDRADE;Engenharia Informática
+70846;JORGE Fernando Moreira PINTO;Engenharia Informática
+70855;FILIPE Lucas CARVALHO;Engenharia Informática
+70860;DUARTE Henrique Ferreira GARCÊS;Engenharia Informática
+70863;RICARDO Emanuel Barbosa BESSA;Engenharia Informática
+70869;SÉRGIO Edgar Sousa MONTEIRO;Engenharia Informática
+70874;CÁTIA Sofia Moreira CARDOSO;Engenharia Informática
+70875;ANDRÉ Alexandre Moreira de JESUS;Engenharia Informática
+71096;FERNANDO Daniel de Magalhães Pipa ALVES;Engenharia Informática
+71159;BRUNO Miguel Pinto ALVES;Engenharia Informática
+71162;JOÃO Pedro de Azevedo CARVALHO;Engenharia Informática
+71337;BRUNO Miguel Barrigas MEDEIROS;Engenharia Informática
+71342;BEATRIZ Marques PEREIRA;Engenharia Informática
+71395;TIAGO Miguel Lopes MORAIS;Engenharia Informática
+71437;MARTA de Campos Loureiro e Barros AGUIAR;Engenharia Informática
+71518;FRANCISCO Alexandre Lopes MARINHO;Engenharia Informática
+71570;BRUNO Alexandre Pereira FERNANDES;Engenharia Informática
+71720;JORGE Miguel Filipe MACHADO;Engenharia Informática
+71826;JOÃO André Oliveira SILVA;Engenharia Informática
+71838;JOÃO Rafael Cerqueira MONTEIRO;Engenharia Informática
+71839;MÁRIO Jorge Amaral Pinto CORREIA;Engenharia Informática
+71850;ANDRÉ Morais MIRANDA;Engenharia Informática
+72234;SUSANNA Marapodi dos PASSOS;Engenharia Informática
+72314;VASCO Miguel Faria Dias TEIXEIRA;Engenharia Informática
+72319;VASCO Correia CAMPOS;Engenharia Informática
+73245;DIOGO Ribeiro PEIXOTO;Engenharia Informática
+68897;ISAC CERQUEIRA GOMES DE SÁ;Engenharia Informática
+70636;TIAGO DOS SANTOS LAMEIRÃO;Engenharia Informática
+70638;VASCO RODRIGUES RIBEIRO;Engenharia Informática
+70770;PEDRO ALEXANDRE DA SILVA OLIVEIRA;Engenharia Informática
+71195;VASCO RAFAEL BARROSO GONÇALVES RITO;Engenharia Informática
+14023;JORGE CLÁUDIO DA COSTA PEREIRA;Engenharia Informática
+73325;MARIA Inês Cardoso MARTINS;Matemática Aplicada e Ciências dos Dados
+73326;INÊS Ribeiro PINTO;Matemática Aplicada e Ciências dos Dados
+74650;JOÃO Roberto da Silva ABREU;Matemática Aplicada e Ciências dos Dados
+74783;JOSÉ Carlos Lameira MARQUES;Matemática Aplicada e Ciências dos Dados
+73159;TOMÁS TELMO FELIZARDO;Matemática Aplicada e Ciências dos Dados
+66628;PAULO Alexandre Teixeira QUEIRÓS;Tecnologias da Informação e Comunicação
