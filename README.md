@@ -1,2 +1,7 @@
-# Exercicios-Engenharia-Web
-Exercícios para a disciplina Engenharia Web (3º ano, 1º semestre)
+Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Trás-os-Montes e Alto Douro
+
+Licenciatura em Engenharia Informática / 3º Ano
+
+Engenharia Web
+
+-> Exercícios realizados no Visual Studio
